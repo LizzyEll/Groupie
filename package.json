@@ -1,6 +1,6 @@
 {
   "name": "groupie",
-  "module": "index.js",
+  "module": "/src/index.js",
   "type": "module",
   "version": "0.0.1",
   "devDependencies": {
