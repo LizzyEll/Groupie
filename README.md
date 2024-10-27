@@ -6,8 +6,7 @@
 | Version:  | 0.0.1               |
 | Status:   | **Not Complete ❌** |
 
-
 | **Todo:**                 |
 | ------------------------- |
-| Init Project              |
+| ~~Init Project~~          |
 | Create simple static page |
